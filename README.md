@@ -3,7 +3,7 @@ Nodejs MySQL REST API, Desde cero a Despliegue
 
 Aplicacion RestAPI de ejemplo.
 
-![esquema](![esquema proyecto excalidraw](https://user-images.githubusercontent.com/64224078/192518569-46a7d9da-1e40-43fa-b5d5-57bc1b91b89b.png))
+![esquema proyecto excalidraw](https://user-images.githubusercontent.com/64224078/192518569-46a7d9da-1e40-43fa-b5d5-57bc1b91b89b.png))
 
 
 
